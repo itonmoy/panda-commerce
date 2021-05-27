@@ -1,0 +1,22 @@
+.bg-color{
+    background-color:#fceae8;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: hotpink;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, hotpink 0%, 
+    hotpink 100%);
+    background-color: hotpink;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 20px;
+}
+p{
+    color:gray;
+}
