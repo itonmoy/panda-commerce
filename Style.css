@@ -1,3 +1,6 @@
+.container{
+    margin-bottom: 50px;
+}
 .bg-color{
     background-color:#fceae8;
 }
@@ -19,4 +22,51 @@
 }
 p{
     color:gray;
+}
+.category-1{
+    background-color: #ff9c35;
+    border-radius: 25px;
+    margin: 15px 0px;
+}
+.category-2{
+    background-color: #FF589B;
+    border-radius: 25px;
+    margin: 15px 0px;
+}
+.category-3{
+    background-color: #4289FF ;
+    border-radius: 20px;
+    margin: 15px 0px;
+}
+.product{
+    color:white;
+}
+.categories img{
+    width: 7rem;
+}
+.shoe h5{
+    color:black;
+}
+.card-button{
+    background-color: black;
+    color: white;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 10px 0px;
+}
+.card{
+    border: none;
+    box-shadow:  5px 5px 10px lightgray;
+}
+#subscribe{
+    background-color:#fceae8 ;
+    height: 300px;
+    padding: 10px;
+}
+#subscribe h6{
+    color: gray;
+}
+.footer{
+    text-align: center;
 }
